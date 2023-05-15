@@ -7,7 +7,7 @@ load_css()
 st.write("[![Star](https://img.shields.io/github/stars/irchamali.svg?logo=github&style=social)](https://github.com/irchamali)")
 
 col1, col2, col3 = st.columns(3)
-col2.image(Image.open('ia.png'))
+col2.image(Image.open('img/ia.png'))
 
 st.header('Ircham Ali, M.Kom.')
 
